@@ -1,0 +1,28 @@
+name: Lucas-Calcraft Seguros
+favicon: null
+layout_spectrum: 0.41200497816316783
+typography_spectrum: 0.6672438308596611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5243029431439936
+  lightness: 0.5736123498063534
+  saturation: 0.6924557925667614
+  rhythmicContrast: 0.1863598609343171
+purpose: []
